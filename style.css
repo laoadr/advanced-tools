@@ -103,7 +103,7 @@
     background-color: var(--secondary-color);
   }
   .img-fluid {
-    max-width: 150%;
+    max-width: 100%;
     height: auto;
   }
   img {
@@ -112,3 +112,6 @@
   .text-center {
     text-align: center !important;
   }
+.rounded {
+    border-radius: .25 rem!important;
+}
